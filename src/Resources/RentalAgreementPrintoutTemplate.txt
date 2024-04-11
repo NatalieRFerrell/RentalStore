@@ -1,0 +1,12 @@
+Tool code: {0}
+Tool type: {1}
+Tool brand: {2}
+Rental days: {3}
+Check out date: {4, date, short}
+Due date: {5, date, short}
+Daily rental charge: {6, number, currency}
+Charge days: {7}
+Pre-discount charge: {8, number, currency}
+Discount percent: {9}%
+Discount amount: {10, number, currency}
+Final charge {11, number, currency}
